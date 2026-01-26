@@ -1,5 +1,5 @@
 # OS Simulation Problems
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 This repository contains the code I developed for our Operating Systems course.  
 
@@ -18,3 +18,13 @@ This repository contains the code I developed for our Operating Systems course.
 - Simulation of major **CPU scheduling algorithms**.  
 - Demonstration of **concurrency issues** and solutions.  
 - Practical use of **linked lists**, **multithreading**, and **semaphores**.  
+
+## License & Attribution
+
+This project is licensed under the **MIT License**.
+
+**Copyright (c) 2026 Van Kristian Cuadra**
+
+While this code is open for educational review, the software architecture and system logic represent my professional engineering portfolio. If you are using this project as a reference for academic or professional purposes, **attribution is required**. 
+
+Please see the [LICENSE](LICENSE) file for the full legal text.
